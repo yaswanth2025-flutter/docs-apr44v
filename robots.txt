@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-a1flcg.jambul126.xyz/sitemap.xml
